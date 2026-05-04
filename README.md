@@ -9,7 +9,7 @@ Single-pass URP post-process: 4×4 Bayer dithering, color quantization, pixeliza
 **Window → Package Manager → + → Install package from git URL…**
 
 ```
-https://github.com/zimennik/bayer-dither-urp.git
+https://github.com/Zimennik/bayer-dither-urp.git
 ```
 
 ## Use
