@@ -1,0 +1,29 @@
+{
+  "name": "com.zimennik.bayer-dither-urp",
+  "version": "1.0.0",
+  "displayName": "Bayer Dither Post-Process for URP",
+  "description": "A single-pass URP post-process renderer feature that combines 4x4 Bayer ordered dithering with pixelization, color quantization, warmth shift, desaturation, film grain and vignette. Designed for retro / lo-fi / PSX-style looks. Works with both RenderGraph (URP 17+) and the legacy compatibility path (URP 14-16).",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "14.0.0"
+  },
+  "keywords": [
+    "urp",
+    "post-process",
+    "dither",
+    "bayer",
+    "retro",
+    "psx",
+    "lo-fi",
+    "renderer-feature"
+  ],
+  "author": {
+    "name": "Roman Zimenko",
+    "email": "zimennik@gmail.com",
+    "url": "https://github.com/zimennik"
+  },
+  "license": "MIT",
+  "documentationUrl": "https://github.com/zimennik/bayer-dither-urp#readme",
+  "changelogUrl": "https://github.com/zimennik/bayer-dither-urp/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/zimennik/bayer-dither-urp/blob/main/LICENSE.md"
+}
